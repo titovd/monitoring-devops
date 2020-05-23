@@ -1,7 +1,7 @@
 # monitoring-devops
 
 ## Пример использования мониторинга
-![](images/bicoin.png)
+![](images/bitcoin.png)
 
 ![](images/litecoin.png)
 
